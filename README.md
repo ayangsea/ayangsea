@@ -6,7 +6,3 @@
 - 🌱 I’m currently learning **Firmware and Device Driver Programming**
 
 - 📫 How to reach me **ayangsea@berkeley.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
